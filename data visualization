@@ -6,3 +6,7 @@ For each of these subsets of the data, the same plot type is rendered on other v
 Faceting is a way of comparing distributions or relationships across levels of additional variables, especially when there are three or more variables of interest overall. 
 While faceting is most useful in multivariate visualization, 
 it is still valuable to introduce the technique here in our discussion of bivariate plots.
+
+
+g = sb.FacetGrid(data = df, col = 'cat_var')
+g.map(plt.hist, "num_var")
