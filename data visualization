@@ -19,3 +19,6 @@ three numeric variables
 two numeric variables and one categorical variable
 one numeric variable and two categorical variables
 three categorical variables
+
+
+If we have at least two numeric variables, as in the first two cases, one common method for depicting the data is by using a scatterplot to encode two of the numeric variables, then using a non-positional encoding on the points to convey the value on the third variable, whether numeric or categorical. (You will see additional techniques later in the lesson that can also be applied to the other two cases, i.e. where we have at least two categorical variables.)
