@@ -10,3 +10,12 @@ it is still valuable to introduce the technique here in our discussion of bivari
 
 g = sb.FacetGrid(data = df, col = 'cat_var')
 g.map(plt.hist, "num_var")
+
+
+Non-Positional Encodings for Third Variables
+There are four major cases to consider when we want to plot three variables together:
+
+three numeric variables
+two numeric variables and one categorical variable
+one numeric variable and two categorical variables
+three categorical variables
