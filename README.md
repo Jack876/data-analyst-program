@@ -6,4 +6,3 @@ these are some studying notes
 Starting date: 2020 February
 Expecting ending date: 2020 July
 
-Next goal: data engineer
