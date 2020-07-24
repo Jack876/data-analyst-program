@@ -16,3 +16,7 @@ But don’t forget this is just a beginning. You have acquired an amazing set of
 
 
 Using the WHERE statement, we can display subsets of tables based on conditions that must be met. You can also think of the WHERE command as filtering the data.
+
+ shows how this can be used, and in the upcoming concepts, you will learn some common operators that are useful with the WHERE' statement.
+
+Common symbols used in WHERE statements include:
