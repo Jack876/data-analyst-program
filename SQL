@@ -42,3 +42,9 @@ LEFT, RIGHT, and TRIM are all used to select only certain elements of strings, b
 There are a number of variations of these functions, as well as several other string functions not covered here. Different databases use subtle variations on these functions, so be sure to look up the appropriate database’s syntax if you’re connected to a private database.The Postgres literature contains a lot of the related functions.
 If the proper tables for this SF Crime Data database do not appear for some reason in the Schema below, you can fix this using the Menu in the lower left of the workspace. 
 Make sure you have first saved any query you have entered, then click on Menu, then choose Reset Data, and type in "Reset Data" as directed. This will definitely bring up the proper schema tables for the SF Crime Data database.
+SELECT *
+FROM sf_crime_data
+LIMIT 10;
+yyyy-mm-dd
+
+The format of the date column is mm/dd/yyyy with times that are not correct also at the end of the date.
