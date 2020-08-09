@@ -57,3 +57,5 @@ SELECT id,
        total,
        RANK() OVER (PARTITION BY account_id ORDER BY total DESC) AS total_rank
 FROM orders
+Aggregates in Window Functions with and without ORDER BY
+Run the query that Derek wrote in the previous video in the first SQL Explorer below. Keep the query results in mind; you'll be comparing them to the results of another query next.
