@@ -9,3 +9,9 @@ Spacing is important.
 Use error messages to help you learn.
 Variables and Assignment Operators
 From this page, you will get your first look at variables in Python. There are three videos in this concept to show you some different cases you might run into!
+Variables I
+Variables are used all the time in Python! Below is the example you saw in the video where we performed the following:
+
+mv_population = 74728
+
+Here mv_population is a variable, which holds the value of 74728. This assigns the item on the right to the name on the left, which is actually a little different than mathematical equality, as 74728 does not hold the value of mv_population.
