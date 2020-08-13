@@ -15,3 +15,9 @@ Variables are used all the time in Python! Below is the example you saw in the v
 mv_population = 74728
 
 Here mv_population is a variable, which holds the value of 74728. This assigns the item on the right to the name on the left, which is actually a little different than mathematical equality, as 74728 does not hold the value of mv_population.
+Use the code editor below to answer the following questions about verse and use Test Run to check your output in the quiz at the bottom of this page.
+
+What is the length of the string variable verse?
+What is the index of the first occurrence of the word 'and' in verse?
+What is the index of the last occurrence of the word 'you' in verse?
+What is the count of occurrences of the word 'you' in the verse?
