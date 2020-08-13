@@ -21,3 +21,4 @@ What is the length of the string variable verse?
 What is the index of the first occurrence of the word 'and' in verse?
 What is the index of the last occurrence of the word 'you' in verse?
 What is the count of occurrences of the word 'you' in the verse?
+You will need to refer to Python's string methods documentation.
