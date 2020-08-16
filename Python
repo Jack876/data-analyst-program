@@ -27,3 +27,7 @@ A set is a data type for mutable unordered collections of unique elements. One a
 numbers = [1, 2, 6, 3, 1, 1, 6]
 unique_nums = set(numbers)
 print(unique_nums)
+This would output:
+
+{1, 2, 3, 6}
+Sets support the in operator the same as lists do. You can add elements to sets using the add method, and remove elements using the pop method, similar to lists. Although, when you pop an element from a set, a random element is removed. Remember that sets, unlike lists, are unordered so there is no "last element".
