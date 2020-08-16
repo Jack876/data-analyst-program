@@ -22,3 +22,8 @@ What is the index of the first occurrence of the word 'and' in verse?
 What is the index of the last occurrence of the word 'you' in verse?
 What is the count of occurrences of the word 'you' in the verse?
 You will need to refer to Python's string methods documentation.
+A set is a data type for mutable unordered collections of unique elements. One application of a set is to quickly remove duplicates from a list.
+
+numbers = [1, 2, 6, 3, 1, 1, 6]
+unique_nums = set(numbers)
+print(unique_nums)
