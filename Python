@@ -39,3 +39,9 @@ Context
 Use the dictionary below to answer ALL of the questions regarding dictionaries. Consider you have a dictionary named animals that looks like this:
 
 animals = {'dogs': [20, 10, 15, 8, 32, 15], 'cats': [3,4,2,8,2,4], 'rabbits': [2, 3, 3], 'fish': [0.3, 0.5, 0.8, 0.3, 1]}
+If Statement
+An if statement is a conditional statement that runs or skips code based on whether a condition is true or false. Here's a simple example.
+
+if phone_balance < 5:
+    phone_balance += 10
+    bank_balance -= 10
