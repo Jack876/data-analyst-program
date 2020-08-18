@@ -45,3 +45,8 @@ An if statement is a conditional statement that runs or skips code based on whet
 if phone_balance < 5:
     phone_balance += 10
     bank_balance -= 10
+    
+    Let's break this down.
+
+An if statement starts with the if keyword, followed by the condition to be checked, in this case phone_balance < 5, and then a colon. The condition is specified in a boolean expression that evaluates to either True or False.
+
