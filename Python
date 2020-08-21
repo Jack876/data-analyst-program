@@ -50,3 +50,8 @@ if phone_balance < 5:
 
 An if statement starts with the if keyword, followed by the condition to be checked, in this case phone_balance < 5, and then a colon. The condition is specified in a boolean expression that evaluates to either True or False.
 
+Imagine an air traffic control program that tracks three variables, altitude, speed, and propulsion which for a particular airplane have the values specified below.
+
+altitude = 10000
+speed = 250
+propulsion = "Propeller"
