@@ -55,3 +55,4 @@ Imagine an air traffic control program that tracks three variables, altitude, sp
 altitude = 10000
 speed = 250
 propulsion = "Propeller"
+For each of the following boolean expressions, work out whether it evaluates to True or False and match the correct value.
