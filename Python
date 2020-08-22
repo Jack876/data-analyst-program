@@ -56,3 +56,5 @@ altitude = 10000
 speed = 250
 propulsion = "Propeller"
 For each of the following boolean expressions, work out whether it evaluates to True or False and match the correct value.
+altitude < 1000 and speed > 100
+altitude < 1000 is False, so we don't even need to check the second condition - the whole expression is False.
