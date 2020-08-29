@@ -62,3 +62,8 @@ altitude < 1000 is False, so we don't even need to check the second condition - 
 propulsion == "Jet" is False, and propulsion == "Turboprop" is False, so the whole expression inside the parentheses is False. It is combined with the other expressions with and, so we don't even need to check these - the whole expression must be False because the first part is False.
 For Loops
 Python has two kinds of loops - for loops and while loops. A for loop is used to "iterate", or do something repeatedly, over an iterable.
+An iterable is an object that can return one of its elements at a time. This can include sequence types, such as strings, lists, and tuples, as well as non-sequence types, such as dictionaries and files.
+
+Example
+Let's break down the components of a for loop, using this example with the list cities:
+
