@@ -66,4 +66,5 @@ An iterable is an object that can return one of its elements at a time. This can
 
 Example
 Let's break down the components of a for loop, using this example with the list cities:
-
+Control Flow
+Welcome to this lesson on Control Flow! Control flow is the sequence in which your code is run. Here, we'll learn about several tools in Python we can use to affect our code's control flow:
