@@ -70,3 +70,10 @@ Control Flow
 Welcome to this lesson on Control Flow! Control flow is the sequence in which your code is run. Here, we'll learn about several tools in Python we can use to affect our code's control flow:
 Control Flow
 Welcome to this lesson on Control Flow! Control flow is the sequence in which your code is run. Here, we'll learn about several tools in Python we can use to affect our code's control flow:
+Solution: Quick Brown Fox
+Here is an efficient two lines of code, with the desired output. You could of course give your variable any name, it doesn't need to be word. But word makes sense here!
+
+sentence = ["the", "quick", "brown", "fox", "jumped", "over", "the", "lazy", "dog"]
+
+for word in sentence:
+    print(word)
