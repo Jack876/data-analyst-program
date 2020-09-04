@@ -98,3 +98,8 @@ for item in items:
 html_str += "</ul>"
 
 print(html_str)
+Output:
+<ul>
+<li>first string</li>
+<li>second string</li>
+</ul>
