@@ -111,3 +111,12 @@ for name in names:
     usernames.append(name.lower().replace(" ", "_"))
 
 print(usernames)
+Output:
+['joey_tribbiani', 'monica_geller', 'chandler_bing', 'phoebe_buffay']
+Quiz Solution: Modify Usernames with Range
+usernames = ["Joey Tribbiani", "Monica Geller", "Chandler Bing", "Phoebe Buffay"]
+
+for i in range(len(usernames)):
+    usernames[i] = usernames[i].lower().replace(" ", "_")
+
+print(usernames)
