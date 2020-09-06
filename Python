@@ -123,3 +123,14 @@ print(usernames)
 
 Output:
 ['joey_tribbiani', 'monica_geller', 'chandler_bing', 'phoebe_buffay']
+Quiz Solution: Tag Counter
+You can use string indexing to find out if each token begins and ends with angle brackets.
+
+tokens = ['<greeting>', 'Hello World!', '</greeting>']
+
+count = 0
+for token in tokens:
+    if token[0] == '<' and token[-1] == '>':
+        count += 1
+
+print(count)
