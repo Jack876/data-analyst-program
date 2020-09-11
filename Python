@@ -143,3 +143,5 @@ for object, count in basket_items.items():
        result += count
 
 print("There are {} fruits in the basket.".format(result))
+Output:
+There are 23 fruits in the basket.
