@@ -157,3 +157,4 @@ for object, count in basket_items.items():
         not_fruit_count += count
 
 print("The number of fruits is {}.  There are {} objects that are not fruits.".format(fruit_count, not_fruit_count))
+The number of fruits is 23.  There are 11 objects that are not fruits.
