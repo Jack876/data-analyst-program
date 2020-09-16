@@ -174,3 +174,5 @@ The first line starts with the while keyword, indicating this is a while loop.
 Following that is a condition to be checked. In this example, that's sum(hand) <= 17.
 The while loop heading always ends with a colon :.
 Indented after this heading is the body of the while loop. If the condition for the while loop is true, the code lines in the loop's body will be executed.
+We then go back to the while heading line, and the condition is evaluated again. This process of checking the condition and then executing the loop repeats until the condition becomes false.
+When the condition becomes false, we move on to the line following the body of the loop, which will be unindented.
