@@ -170,3 +170,7 @@ while sum(hand)  < 17:
 This example features two new functions. sum returns the sum of the elements in a list, and pop is a list method that removes the last element from a list and returns it.
 
 Components of a While Loop
+The first line starts with the while keyword, indicating this is a while loop.
+Following that is a condition to be checked. In this example, that's sum(hand) <= 17.
+The while loop heading always ends with a colon :.
+Indented after this heading is the body of the while loop. If the condition for the while loop is true, the code lines in the loop's body will be executed.
