@@ -192,4 +192,8 @@ If we used the same code above, except with these starting values:
 
 start_num = 300
 end_num = 548
-count_by = 23
+counThis would output:
+
+553
+Quiz: Count By Check
+t_by = 23
