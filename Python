@@ -210,3 +210,9 @@ Output:
 101
 Another Example Output:
 If we used the same code above, except with these starting values:
+For Loops Vs. While Loops
+Now that you are familiar with both for and while loops, let's consider when it's most helpful to use each of them.
+
+for loops are ideal when the number of iterations is known or finite.
+
+Examples:
