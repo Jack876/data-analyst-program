@@ -227,3 +227,7 @@ When you want to use comparison operators
 while count <= 100:
 When you want to loop based on receiving specific user input.
 while user_input == 'y':
+ime to pause and check your understanding about the important concepts of While Loops and For Loops.
+
+QUESTION 1 OF 2
+There are certain requirements you want to consider adding into a while loop. Which of these requirements must be met? (Select all that apply)
