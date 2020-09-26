@@ -253,3 +253,6 @@ We would write a while loop to write this code for the following reasons:
 
 We don't need a break statement that a for loop will require. Without a break statement, a for loop will iterate through the whole list, which is not efficient.
 We don't want to iterate over the entire list, but only over the required number of elements in the list that meets our condition.
+It is easier to understand because you explicitly control the exit conditions for the loop.
+
+Here's the code we wrote:
