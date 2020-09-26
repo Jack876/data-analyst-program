@@ -249,3 +249,7 @@ num_list = [422, 136, 524, 85, 96, 719, 85, 92, 10, 17, 312, 542, 87, 23, 86, 19
 Your code should add up the odd numbers in the list, but only up to the first 5 odd numbers together. If there are more than 5 odd numbers, you should stop at the fifth. If there are fewer than 5 odd numbers, add all of the odd numbers.
 
 Our solution:provided our solution on the next page. Feel free to use the coding playground below to test your code.
+We would write a while loop to write this code for the following reasons:
+
+We don't need a break statement that a for loop will require. Without a break statement, a for loop will iterate through the whole list, which is not efficient.
+We don't want to iterate over the entire list, but only over the required number of elements in the list that meets our condition.
