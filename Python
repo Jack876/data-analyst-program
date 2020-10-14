@@ -278,3 +278,4 @@ Sometimes we need more control over when a loop should end, or skip an iteration
 break terminates a loop
 continue skips one iteration of a loop
 Watch the video and experiment with the examples below to see how these can be helpful.
+Below, you'll find two methods to solve the cargo loading program from the video. The first one is simply the one found in the video, which breaks from the loop when the weight reaches the limit. However, 
