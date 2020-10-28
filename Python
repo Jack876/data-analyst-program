@@ -298,3 +298,6 @@ In addition to zipping two lists together, you can also unzip a list into tuples
 some_list = [('a', 1), ('b', 2), ('c', 3)]
 letters, nums = zip(*some_list)
 In addition to zipping two lists together, you can also unzip a list into tuples using an asterisk
+some_list = [('a', 1), ('b', 2), ('c', 3)]
+letters, nums = zip(*some_list)
+This would create the same letters and nums tuples we saw earlier.
