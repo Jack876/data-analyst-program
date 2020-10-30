@@ -301,3 +301,6 @@ In addition to zipping two lists together, you can also unzip a list into tuples
 some_list = [('a', 1), ('b', 2), ('c', 3)]
 letters, nums = zip(*some_list)
 This would create the same letters and nums tuples we saw earlier.
+capitalized_cities = []
+for city in cities:
+    capitalized_cities.append(city.title())
