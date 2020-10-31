@@ -307,3 +307,6 @@ for city in cities:
 can be reduced to:
 
 capitalized_cities = [city.title() for city in cities]
+Quiz Solution: Multiples of Three
+multiples_3 = [x * 3 for x in range(1, 21)]
+print(multiples_3)
